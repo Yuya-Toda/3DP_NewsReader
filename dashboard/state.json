@@ -1,0 +1,22 @@
+{
+  "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
+  "last_checked": "2026-08-11T03:31:30Z",
+  "articles": [
+    {
+      "title": "ExOne Sand 3D Printer Brings Industrial Binder Jetting to Small and Mid-Sized Foundries",
+      "url": "https://www.additivemanufacturing.media/products/exone-sand-3d-printer-brings-industrial-binder-jetting-to-small-and-mid-sized-foundries",
+      "source": "Additive Manufacturing (Gardner Business Media)",
+      "published_date": "2026-08-07",
+      "summary": "ExOne(voxeljetと統合したExOne Global Holdings)が、中小規模の鋳造工場やパターンショップ向けに省スペース・低コストの砂型用バインダージェット3Dプリンター「S-Print Pro」を発表した。設置面積12㎡未満で稼働し、主力機S-Maxと同等の精度・再現性を保ちながら導入・運用コストを抑えている。2026年後半からベータパートナー向けに順次出荷を開始する予定。",
+      "first_seen": "2026-08-11"
+    },
+    {
+      "title": "2026 増材制造技术演进与产业观察（2026年 積層造形技術の進化と産業動向）",
+      "url": "https://finance.sina.com.cn/roll/2026-08-05/doc-inimfshi3659095.shtml",
+      "source": "新浪財経（Sina Finance）",
+      "published_date": "2026-08-05",
+      "summary": "中国の積層造形(AM)産業の最新動向をまとめた記事。金属・砂型向けバインダージェット(BJT)技術を、レーザーを使わず高速・低コストで成形できる技術として紹介し、最大成形空間2000Lを実現、大型鋳物用の砂型を金型レスで迅速に量産できる点を指摘している。中国のAM市場全体は過去5年間で年平均成長率約30%と拡大が続いていることにも言及。",
+      "first_seen": "2026-08-11"
+    }
+  ]
+}
