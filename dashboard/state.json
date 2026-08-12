@@ -1,7 +1,16 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-08-11T22:14:56Z",
+  "last_checked": "2026-08-12T17:16:29Z",
   "articles": [
+    {
+      "title": "2026東北亜国際鋳造及び熱加工展覧会(瀋陽)、スマート製造・3Dプリンティング特設展示区を新設 ― 9月1〜4日開催",
+      "url": "https://www.expochina.cn/expo/100001",
+      "source": "鋳造展覧網(中国鋳造協会主催)",
+      "published_date": "2026-08-12",
+      "summary": "中国鋳造協会主催の「2026東北亜国際鋳造及び熱加工展覧会」が2026年9月1〜4日、瀋陽国際展覧センターで開催される。高性能鋳物・部品展示区、鋳造原材料展示区、鋳造装備・金型・計測機器展示区に加え、スマート製造・3Dプリンティング特設展示区が新設され、砂型3DP関連技術の出展も見込まれる。",
+      "first_seen": "2026-08-12",
+      "category": "A"
+    },
     {
       "title": "AFS、2026年の鋳物販売高8%増を予測 ― 年央改訂で上方修正",
       "url": "https://www.afsinc.org/news/2026/07/27/afs-projects-8-percent-casting-sales-growth-2026",
