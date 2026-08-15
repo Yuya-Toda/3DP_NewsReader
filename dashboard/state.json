@@ -1,7 +1,16 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-08-14T22:40:00Z",
+  "last_checked": "2026-08-15T22:16:04Z",
   "articles": [
+    {
+      "title": "伊藤鋳造鉄工所(茨城)、アルミ部品の岡本合金鋳造所を子会社化 ― 常陽キャピタルパートナーズが仲介",
+      "url": "https://www.nikkei.com/article/DGXZQOCC125E10S6A610C2000000/",
+      "source": "日本経済新聞",
+      "published_date": "2026-08-01",
+      "summary": "鋳物部品メーカーの伊藤鋳造鉄工所(茨城県東海村)は、アルミ鋳造部品を手がける岡本合金鋳造所(同県行方市)を子会社化した。常陽銀行の投資子会社である常陽キャピタルパートナーズ(JCP、水戸市)が仲介し、伊藤鋳造はアルミ鋳造技術を取り込むことで事業領域を拡大する。伊藤鋳造の2026年3月期のグループ売上高は約110億円。",
+      "first_seen": "2026-08-15",
+      "category": "B"
+    },
     {
       "title": "Thrust Capital Partners、チタン・アルミニウム精密鋳造の航空宇宙・防衛大手ALPHACASTINGを買収",
       "url": "https://www.newswire.ca/news-releases/thrust-capital-partners-acquires-alphacasting-a-leading-titanium-and-aluminium-aerospace-amp-defense-investment-casting-company-849422258.html",
