@@ -1,7 +1,276 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-08-15T22:16:04Z",
+  "last_checked": "2026-08-16T08:50:38Z",
+  "discovered_sources": [
+    {
+      "source": "证券之星(Stockstar)",
+      "first_seen": "2026-08-16",
+      "example_url": "https://stock.stockstar.com/RB2026042900040795.shtml"
+    },
+    {
+      "source": "東方財富証券 調査レポート(dfcfw.com)",
+      "first_seen": "2026-08-16",
+      "example_url": "https://pdf.dfcfw.com/pdf/H3_AP202604281821656891_1.pdf"
+    },
+    {
+      "source": "東方財富網財富号(caifuhao.eastmoney.com)",
+      "first_seen": "2026-08-16",
+      "example_url": "https://caifuhao.eastmoney.com/news/20260701090352259568500"
+    },
+    {
+      "source": "Linklaters",
+      "first_seen": "2026-08-16",
+      "example_url": "https://www.linklaters.com/about-us/news-and-deals/deals/2026/june/linklaters-advises-ask-chemicals"
+    },
+    {
+      "source": "GuruFocus",
+      "first_seen": "2026-08-16",
+      "example_url": "https://www.gurufocus.com/news/8991057/vesuvius-plc-frav4s-h1-2026-earnings-call-highlights-strong-free-cash-flow-and-foundry-growth-offset-by-operational-hurdles"
+    },
+    {
+      "source": "cnblogs(業界データ引用ブログ)",
+      "first_seen": "2026-08-16",
+      "example_url": "https://www.cnblogs.com/-1688/p/20668365"
+    },
+    {
+      "source": "新浪財経(Sina Finance)",
+      "first_seen": "2026-08-16",
+      "example_url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-15/doc-ininmank1736538.shtml"
+    },
+    {
+      "source": "AlCircle",
+      "first_seen": "2026-08-16",
+      "example_url": "https://www.alcircle.com/news/2a-usa-bets-32m-on-auburn-aluminium-die-casting-facility-expansion-120775"
+    },
+    {
+      "source": "日本経済新聞(適時開示)",
+      "first_seen": "2026-08-16",
+      "example_url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260629583827/"
+    },
+    {
+      "source": "Thomasnet / GM Newsroom",
+      "first_seen": "2026-08-16",
+      "example_url": "https://www.thomasnet.com/insights/gm-michigan-metal-casting-plant-upgrade/"
+    },
+    {
+      "source": "Mexico Business News",
+      "first_seen": "2026-08-16",
+      "example_url": "https://mexicobusiness.news/trade-and-investment/news/nemak-completes-us336m-acquisition-gf-casting-solutions-0"
+    },
+    {
+      "source": "Cast Metals Federation",
+      "first_seen": "2026-08-16",
+      "example_url": "https://www.castmetalsfederation.com/news/2026/02/cmf-huttenes-albertus-supplier-member"
+    }
+  ],
   "articles": [
+    {
+      "title": "聖泉集団、2026年上半期決算を発表 ― 売上高60.85億元(前年比13.73%増)も純利益は減少",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-15/doc-ininmank1736538.shtml",
+      "source": "新浪財経(Sina Finance)",
+      "published_date": "2026-08-15",
+      "summary": "済南聖泉集団は2026年上半期の業績を開示し、営業収入は前年同期比13.73%増の60.85億元となったが、親会社株主に帰属する純利益は同10.68%減の4.47億元にとどまった。利益率低下の主因は株式報酬費用によるもので、鋳造用フラン樹脂を含む本業の樹脂事業自体は堅調に推移しているとされる。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "2A USA、米アラバマ州オーバーン工場のアルミダイカスト設備に3200万ドル投資",
+      "url": "https://www.alcircle.com/news/2a-usa-bets-32m-on-auburn-aluminium-die-casting-facility-expansion-120775",
+      "source": "AlCircle",
+      "published_date": "2026-08-14",
+      "summary": "イタリア系アルミダイカスト企業2A USAは、米アラバマ州オーバーン工場に3200万ドルを投資し、大型・複雑形状のアルミニウム部品の鋳造・機械加工能力を拡張すると発表した。主に大型トラック業界向け部品の生産能力増強が目的で、新たに50人の雇用創出が見込まれる。",
+      "first_seen": "2026-08-16",
+      "category": "B"
+    },
+    {
+      "title": "世界の冷芯箱(コールドボックス)鋳造樹脂市場、2026年に72億元規模へ",
+      "url": "https://caifuhao.eastmoney.com/news/20260803102945994921840",
+      "source": "東方財富網財富号(Eastmoney Caifuhao)",
+      "published_date": "2026-08-03",
+      "summary": "業界分析によると、世界の冷芯箱(コールドボックス)鋳造樹脂市場規模は2026年に72億元に達する見通しであることが報じられた。自動車鋳造需要の拡大などが市場成長を牽引しているとされ、鋳造用バインダー市場全体の拡大トレンドを示す統計として注目される。",
+      "first_seen": "2026-08-16",
+      "category": "B"
+    },
+    {
+      "title": "Vesuvius(FOSECO親会社)、2026年上期決算を発表 ― 鋳造部門は力強い成長",
+      "url": "https://www.gurufocus.com/news/8991057/vesuvius-plc-frav4s-h1-2026-earnings-call-highlights-strong-free-cash-flow-and-foundry-growth-offset-by-operational-hurdles",
+      "source": "GuruFocus",
+      "published_date": "2026-07-30",
+      "summary": "鋳造用消耗品大手FOSECOを傘下に持つVesuvius plcは2026年7月30日、2026年上期(1〜6月)決算を発表した。鋳造(Foundry)部門は力強い成長を示した一方、鉄鋼部門の操業課題やリフラクトリー事業の欧州市場低迷が響き、通期の取引利益は前年並みからやや上回る水準になる見通しとされた。中間配当は1株当たり7.1ペンスで前年据え置き。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "日本鋳造、2027年3月期第1四半期決算 ― AI需要で半導体製造装置向け鋳鋼品が急増",
+      "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260629583827/",
+      "source": "日本経済新聞(適時開示)",
+      "published_date": "2026-07-29",
+      "summary": "鋳鋼専業大手の日本鋳造は2026年7月29日、2027年3月期第1四半期の決算短信を開示した。売上高は前年から減少したものの、AI関連需要の拡大を背景に半導体製造装置向け鋳鋼品の受注が下期から急増し、経常利益は大幅増益で着地した。AI・半導体投資の活発化が鋳造業界の業績にも波及している事例として注目される。",
+      "first_seen": "2026-08-16",
+      "category": "B"
+    },
+    {
+      "title": "蘇州興業(興業股份)、鋳造用フラン樹脂技術で自硬性砂プロセスを最適化 ― 新規高級鋳造用塗料5種も市場投入",
+      "url": "https://caifuhao.eastmoney.com/news/20260709030141625695650",
+      "source": "東方財富網財富号(Eastmoney Caifuhao)",
+      "published_date": "2026-07-09",
+      "summary": "蘇州興業(興業股份、603928)は独自開発の二官能基ヒドロキシメチルフルフラール樹脂を用いて自硬性砂鋳造プロセスを最適化し、鋳巣・偏析などの鋳造欠陥を低減しつつVOC排出を大幅に削減する技術を2025年に大規模展開した。2026年にはさらに5種類の新しい高級鋳造用塗料(コーティング材)を市場投入した。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "蘇州興業(興業股份)、鋳造用膜材料の江蘇科潤膜材料を5.2億元で買収 ― 事業多角化を加速",
+      "url": "https://caifuhao.eastmoney.com/news/20260701090352259568500",
+      "source": "東方財富網財富号(Eastmoney Caifuhao)",
+      "published_date": "2026-07-01",
+      "summary": "蘇州興業(興業股份、603928)は2026年6月、鋳造用膜材料・特殊分離膜を手がける江蘇科潤膜材料を5.2億元で買収したと報じられた。従来の鋳造樹脂事業に加え、膜材料事業を新たな柱とする多角化を進めており、2026年第1四半期の売上高は前年同期比14.10%増の4.16億元、純利益は3,180.96万元となった。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "ASK Chemicals、追加で5000万ユーロのハイイールド債を発行",
+      "url": "https://www.linklaters.com/about-us/news-and-deals/deals/2026/june/linklaters-advises-ask-chemicals",
+      "source": "Linklaters",
+      "published_date": "2026-06-23",
+      "summary": "ドイツ拠点の鋳造用化学品大手ASK Chemicals(親会社はRhône Group)は2026年6月、追加で5000万ユーロのハイイールド債を発行した。調達資金は既存の持株会社レベルのPIK(現物支払い)債務の全額返済に充当される見通しで、財務基盤の強化を図る資金調達となる。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "CMET、砂型積層造形装置「SCM-800Ⅱ」が乾式・湿式砂の両骨材に対応",
+      "url": "https://www.cmet.co.jp/product/infomation/611/",
+      "source": "CMET株式会社(公式サイト)",
+      "published_date": "2026-05-29",
+      "summary": "CMET株式会社は、砂型積層造形装置「Sand Casting Meister SCM-800Ⅱ」が乾式砂・湿式砂の両骨材に対応した仕様であることを公式サイトで公開した。同装置はインクジェットヘッドで特殊バインダーを噴射し、アンダーカットのある複雑形状の砂型を造形できる。自動車部品や産業機械部品向け鋳造用途への活用が想定されている。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "群栄化学工業、2026年3月期決算を発表 ― 売上高313億円・営業利益25.7億円",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260514/20260513529526.pdf",
+      "source": "群栄化学工業株式会社(決算短信、東証適時開示)",
+      "published_date": "2026-05-14",
+      "summary": "群栄化学工業は2026年3月期(2025年4月〜2026年3月)の連結決算を発表し、売上高は前期比2.5%増の313億7百万円、営業利益は同12.0%増の25億6700万円となった。鋳物用バインダーなどを含むフェノール樹脂コアの化学品事業が業績を牽引した。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "中国鋳造協会、「2025年度中国鋳造業界データ」を発表",
+      "url": "https://zhuzaotoutiao.com/xw/html/23022.shtml",
+      "source": "铸造头条",
+      "published_date": "2026-05-07",
+      "summary": "中国鋳造協会は2026年5月、上海で開催された第22回年次総会(Metal China/Diecasting China展と同時開催)において「2025年度中国鋳造業界データ」を正式発表した。生産能力、輸出入動向、産業発展トレンドなど、世界最大の鋳物生産国である中国の業界動向を示す基礎統計として注目されている。",
+      "first_seen": "2026-08-16",
+      "category": "B"
+    },
+    {
+      "title": "AMSKY(愛司凱)、2025年度決算を開示 ― 3Dプリント事業は増収も純損失が約4倍に拡大",
+      "url": "https://stock.stockstar.com/RB2026042900040795.shtml",
+      "source": "证券之星(Stockstar)",
+      "published_date": "2026-04-29",
+      "summary": "中国の砂型3Dプリンター大手AMSKY(愛司凱、300521)の2025年度決算が2026年4月29日に開示された。売上高は前年同期比2.08%増の1億9397万元、3Dプリント設備関連売上は約53.36%増加した一方、親会社帰属純損失は前年の-303万元から-1513万元へと約4倍に拡大し、3D砂型プリンター事業への先行投資が収益を圧迫している状況が示された。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "聖泉集団、新規樹脂生産能力10.1万トンを増設 ― 28%は鋳造用バイオベース樹脂に注力",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202604281821656891_1.pdf",
+      "source": "東方財富証券 調査レポート",
+      "published_date": "2026-04-27",
+      "summary": "証券会社の調査レポートによると、聖泉集団は2026年に樹脂生産能力を新たに10.10万トン増設し、うち28%を「双炭」政策や自動車軽量化ニーズに対応する鋳造用バイオベース環境対応樹脂に振り向けるとした。同社の合成樹脂事業の粗利益率は2026年第1四半期に前年同期比2.3ポイント改善し34.8%となり、業界平均(26.1%)を大きく上回った。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "済南聖泉集団、2025年度報告を開示 ― 鋳造用フラン樹脂販売量21.29万トンで世界首位を維持",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225187103.PDF",
+      "source": "済南聖泉集団股份有限公司(年次報告、上海証券取引所開示)",
+      "published_date": "2026-04-25",
+      "summary": "済南聖泉集団は2025年度決算報告書を開示し、鋳造用樹脂(フラン樹脂等)の販売量が21.29万トンとなったと報告した。同社は年産15万トン規模のフラン樹脂生産能力を持ち、鋳造用バインダー分野で世界最大手としての地位を維持している。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "ExOne Global Holdings、主力プリントヘッドの製造をデトロイトで開始 ― 米国顧客向けメンテナンス費用を削減",
+      "url": "https://3dprint.com/325264/exone-moves-3d-printing-production-to-detroit-cuts-costs-for-u-s-customers/",
+      "source": "3DPrint.com",
+      "published_date": "2026-04-15",
+      "summary": "ExOne Global Holdingsは2026年4月15日、主力プリントヘッド「Spectra Mono-Z」の米国内製造をミシガン州キャントン(デトロイト近郊)で開始したと発表した。現地部品在庫の設置、新価格リスト、メンテナンスプログラムの刷新、S-Maxユーザー向け24時間電話サポートの無償提供など、米国顧客のリードタイムとコストを改善する施策を打ち出した。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "ExOneとvoxeljet、8カ国で統合アフターマーケットサービス網を開始",
+      "url": "https://3dprintingindustry.com/news/exone-and-voxeljet-launch-unified-global-aftermarket-support-network-across-eight-countries-246414/",
+      "source": "3D Printing Industry",
+      "published_date": "2026-04-10",
+      "summary": "ExOne Global Holdings傘下のExOneとvoxeljetが、砂型バインダージェット装置向けの統合アフターマーケットサービス網を米国・ドイツ・日本・中国・インドなど8カ国で開始した。両社の技術者を統一カリキュラムで認証し、部品供給とサービス対応を迅速化することで、旧デスクトップメタル体制下で低下した顧客の信頼回復を狙う。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "GM、ミシガン州サギノー金属鋳造工場に1億5000万ドル超を投資",
+      "url": "https://www.thomasnet.com/insights/gm-michigan-metal-casting-plant-upgrade/",
+      "source": "Thomasnet / GM Newsroom",
+      "published_date": "2026-04-01",
+      "summary": "ゼネラルモーターズ(GM)は2026年4月、ミシガン州サギノーの金属鋳造工場(Saginaw Metal Casting Operations)に1億5000万ドル超を投資すると発表した。フルサイズピックアップトラック向け第6世代V8エンジンブロック・シリンダーヘッドの生産を支えるための設備更新が目的で、北米自動車向け鋳造事業における大型投資として注目される。",
+      "first_seen": "2026-08-16",
+      "category": "B"
+    },
+    {
+      "title": "ExOne Global Holdings、取締役会メンバーを発表 ― ExOneとvoxeljetの統合体制を整備",
+      "url": "https://www.voxelmatters.com/exone-global-holdings-sets-board-as-it-integrates-exone-and-voxeljet/",
+      "source": "VoxelMatters",
+      "published_date": "2026-02-17",
+      "summary": "2026年2月17日、ExOneとvoxeljetの統合により発足したExOne Global Holdingsが取締役会メンバーを発表した。会長にAnzu PartnersのWhitney Haring-Smith氏、CEOにEric Bader氏、元ExOne CEOのJohn Hartner氏らが就任し、事業拡大と国際市場開拓を主導する体制を整えた。砂型3Dプリンティング業界再編後のガバナンス強化を示す経営陣人事となる。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "Nemak、GF Casting Solutionsの自動車部門を3億3600万ドルで買収完了",
+      "url": "https://mexicobusiness.news/trade-and-investment/news/nemak-completes-us336m-acquisition-gf-casting-solutions-0",
+      "source": "Mexico Business News",
+      "published_date": "2026-02-12",
+      "summary": "メキシコの大手鋳造メーカーNemakは2026年2月12日、規制承認を得てGF Casting Solutions(旧ゲオルグ・フィッシャー社)の自動車部門の買収を完了したと発表した。企業価値ベースで3億3600万ドルの取引で、オーストリア・中国・ドイツ・ルーマニア・米国の9拠点と約2500人の従業員を取得し、内燃機関部品中心から構造・シャシー部品へと事業を多角化する。",
+      "first_seen": "2026-08-16",
+      "category": "B"
+    },
+    {
+      "title": "中国の砂型3Dプリンター新規導入、2025年に820台(前年比41.2%増) ― 2026年は市場規模45億元超へ",
+      "url": "https://www.cnblogs.com/-1688/p/20668365",
+      "source": "業界データ引用ブログ(cnblogs、『2025-2026中国増材制造産業発展白書』引用)",
+      "published_date": "2026-02-10",
+      "summary": "『2025-2026中国増材制造産業発展白書』のデータを引用した記事によると、中国国内の工業用砂型3Dプリンター新規導入台数は2025年に820台(前年比41.2%増)に達し、2026年には1100台超(成長率35%以上を維持)、市場規模は45億元を突破すると予測されている。鋳造デジタル化転型を牽引する企業の一つとしてAMSKY(愛司凱)の動向も紹介されている。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "Hüttenes-Albertus(英国法人)、英国鋳物工業連盟(Cast Metals Federation)にサプライヤー会員として加盟",
+      "url": "https://www.castmetalsfederation.com/news/2026/02/cmf-huttenes-albertus-supplier-member",
+      "source": "Cast Metals Federation",
+      "published_date": "2026-02-01",
+      "summary": "鋳造用バインダー大手のヒュッテネス・アルベルタス(Hüttenes-Albertus、HA Group)英国法人が、英国鋳物工業連盟(Cast Metals Federation)にサプライヤー会員として加盟した。同連盟は同社の鋳造化学分野における技術革新と顧客支援体制を評価しており、業界団体との連携強化が進んでいる。",
+      "first_seen": "2026-08-16",
+      "category": "B"
+    },
+    {
+      "title": "仏Multistation、中国KANGSHUO Groupと砂型バインダージェット装置の販売代理店契約を締結",
+      "url": "https://3dprint.com/323546/3d-printing-news-briefs-1-31-2026/",
+      "source": "3DPrint.com",
+      "published_date": "2026-01-31",
+      "summary": "フランスのAM販売代理店Multistationが、砂型バインダージェット大手のKANGSHUO Group(中国)と販売代理店契約を締結したと報じられた。KANGSHUOの主力機KSS1800Bは双方向砂リコート機構とシーメンス製駆動制御を備え、ビルドボリューム1800×1000×700mmの第二世代砂型3Dプリンタである。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
+    {
+      "title": "voxeljet、大型バインダージェット3Dプリンタ「VX7000」を発表 ― 1回の造形で60トン以上の砂を処理",
+      "url": "https://www.voxelmatters.com/voxeljet-develops-vx7000-large-format-3d-printer-for-industrial-scale-production/",
+      "source": "VoxelMatters",
+      "published_date": "2026-01-20",
+      "summary": "voxeljetは国際的な産業パートナー向けに、大型バインダージェット3Dプリンタ「VX7000」の開発を発表した。ビルドボリュームは約7000×7000×1000mmで、1回の造形で60トン以上の砂を処理可能。4基の印字ヘッド(各約1m幅、7168ノズル)を搭載し、レイヤー造形時間を100秒未満に短縮する技術的進化を実現している。",
+      "first_seen": "2026-08-16",
+      "category": "A"
+    },
     {
       "title": "伊藤鋳造鉄工所(茨城)、アルミ部品の岡本合金鋳造所を子会社化 ― 常陽キャピタルパートナーズが仲介",
       "url": "https://www.nikkei.com/article/DGXZQOCC125E10S6A610C2000000/",
