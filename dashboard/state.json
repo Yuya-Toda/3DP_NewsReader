@@ -1,8 +1,13 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-08-16T08:50:38Z",
+  "last_checked": "2026-08-18T09:00:00Z",
   "discovered_sources": [
     {
+      "domain": "japanmetal.com",
+      "first_seen": "2026-08-13",
+      "article_count": 2,
+      "note": "日刊産業新聞(鉄鋼・非鉄金属業界専門紙)の電子版。神戸製鋼所の砂型3DP設備投資、日本鋳造の砂型3D造形技術開発などを報道。"
+    },
       "source": "证券之星(Stockstar)",
       "first_seen": "2026-08-16",
       "example_url": "https://stock.stockstar.com/RB2026042900040795.shtml"
@@ -64,6 +69,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "日本鋳造、砂型3D造形で凝固割れ防止の機能性中子を開発 ― 川崎工場の金属粉末知見を活用",
+      "url": "https://www.japanmetal.com/news-t20260817150352.html",
+      "source": "日刊産業新聞(japanmetal.com)",
+      "published_date": "2026-08-17",
+      "summary": "日本鋳造は、注湯した鋼が凝固収縮する際に生じる割れなどの欠陥を防止する機能性中子(3D鋳包み材)を、砂型3D造形技術を用いて開発したと発表した。シミュレーションツールで欠陥発生が予測される箇所を特定し、その部位に3Dプリンターで製造した鋳包み材を配置することで欠陥を未然に防ぐ仕組み。同社が川崎工場の金属粉末積層造形(金属3Dプリンター)事業で培った知見を、砂型3D造形による鋳造技術に応用した事例として注目される。",
+      "first_seen": "2026-08-18",
+      "category": "A"
+    },
+    {
+      "title": "ExOneとvoxeljet、単一法人として統合完了 ― ドイツ商業登記簿に登録",
+      "url": "https://www.tctmagazine.com/exone-gmbh-voxeljet-gmbh-now-operating-as-single-legal-entity/",
+      "source": "TCT Magazine",
+      "published_date": "2026-08-13",
+      "summary": "2026年8月13日、ExOne GmbHとvoxeljet GmbHがドイツの商業登記簿上で正式に単一法人として統合されたことが発表された。本社はドイツ・ゲルストホーフェンに置かれ、社名は「ExOne GmbH」として存続する。Anzu Partnersが2025年に両社の資産を個別に取得して以降進めてきた統合プロセスの集大成であり、既存の契約・見積もり・秘密保持契約(NDA)はすべて有効なまま引き継がれる。砂型3Dプリンティング業界の再編が法人レベルでも完了した節目として位置づけられる。",
+      "first_seen": "2026-08-18",
+      "category": "A"
+    },
     {
       "title": "聖泉集団、2026年上半期決算を発表 ― 売上高60.85億元(前年比13.73%増)も純利益は減少",
       "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-15/doc-ininmank1736538.shtml",
