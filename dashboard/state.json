@@ -1,13 +1,14 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-08-18T09:00:00Z",
+  "last_checked": "2026-08-19T09:00:00Z",
   "discovered_sources": [
     {
       "domain": "japanmetal.com",
       "first_seen": "2026-08-13",
-      "article_count": 2,
+      "article_count": 3,
       "note": "日刊産業新聞(鉄鋼・非鉄金属業界専門紙)の電子版。神戸製鋼所の砂型3DP設備投資、日本鋳造の砂型3D造形技術開発などを報道。"
     },
+    {
       "source": "证券之星(Stockstar)",
       "first_seen": "2026-08-16",
       "example_url": "https://stock.stockstar.com/RB2026042900040795.shtml"
@@ -69,6 +70,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "日本鋳鍛鋼会、6月の鋳鋼・鍛鋼生産実績を発表 ― 鋳鋼2.6%増、鍛鋼は7カ月連続増",
+      "url": "https://www.japanmetal.com/news-t20260819150396.html",
+      "source": "日刊産業新聞(japanmetal.com)",
+      "published_date": "2026-08-19",
+      "summary": "日本鋳鍛鋼会がまとめた2026年6月の生産実績によると、鋳鋼(全国61工場)は9689トンで前年同月比2.6%増(247トン増)となり、3カ月ぶりに増加に転じた。鍛鋼(同16工場)は4万5181トンで同7.3%増(3081トン増)と7カ月連続の増加を記録した。半導体・AI関連需要などを背景とした鋳鋼・鍛鋼分野の底堅い生産動向を示すデータとして注目される。",
+      "first_seen": "2026-08-19",
+      "category": "B"
+    },
     {
       "title": "日本鋳造、砂型3D造形で凝固割れ防止の機能性中子を開発 ― 川崎工場の金属粉末知見を活用",
       "url": "https://www.japanmetal.com/news-t20260817150352.html",
