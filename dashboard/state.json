@@ -1,7 +1,13 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-08-23T22:00:00Z",
+  "last_checked": "2026-08-24T22:00:00Z",
   "discovered_sources": [
+    {
+      "domain": "thebusinessdesk.com",
+      "first_seen": "2026-08-24",
+      "article_count": 1,
+      "note": "英国地方経済ニュースサイト(West Midlands版)。コベントリーの鋳物工場Sarginsons Industriesによるvoxeljet製無機バインダー砂型3Dプリンタ導入を報道。"
+    },
     {
       "domain": "japanmetal.com",
       "first_seen": "2026-08-13",
@@ -70,6 +76,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "コベントリーの鋳物工場Sarginsons Industries、英国初の無機バインダー砂型3Dプリンタに80万ポンド投資 ― voxeljet製VX1000-S IOBを導入",
+      "url": "https://www.thebusinessdesk.com/westmidlands/news/2116063-coventry-foundry-becomes-first-in-uk-to-invest-in-3d-sand-core-printing",
+      "source": "TheBusinessDesk.com(西ミッドランズ版)",
+      "published_date": "2026-08-20",
+      "summary": "英国コベントリーの鋳物メーカーSarginsons Industriesは、無機バインダーを用いた砂型中子3Dプリンティング技術に80万ポンドを投資したと発表した。voxeljet製の冷間無機バインダージェット装置「VX1000-S IOB」を導入し、時間あたり約54リットルの造形が可能で、従来6〜8週間かかっていたアルミ鋳物の完成までの工程を最短24時間に短縮できるとしている。有機バインダー特有の有害排出物も排除でき、砂の再利用性向上にもつながる。同社は英国政府支援のPIVOTプログラムを主導しており、英国鋳造業における先進砂型3DP導入事例として、業界複数媒体(pesmedia.com等)でも取り上げられている。",
+      "first_seen": "2026-08-24",
+      "category": "A"
+    },
+    {
+      "title": "インドPTC Industries子会社Aerolloy、エアバスとチタン精密鋳造品供給で大型契約 ― A320neo/A330neo/A350向け",
+      "url": "https://www.foundry-planet.com/d/ptc-industries-aerolloy-secures-airbus-contract-for-titanium-castings",
+      "source": "foundry-planet.com",
+      "published_date": "2026-08-20",
+      "summary": "インドPTC Industries Limitedの完全子会社Aerolloy Technologies Limitedは、エアバスのA320neo・A330neo・A350向けチタン精密鋳造部品の開発・認証・供給に関する大型契約を締結したと発表した(発表自体は2026年8月6日)。チタン原料製造から精密鋳造、機械加工、検査・品質保証までを自社インド・ラクナウ拠点で一貫して行う体制を構築し、認証取得後の量産開始を目指す。航空宇宙分野における精密鋳造の新規大型受注事例として、複数のインド・国際メディアでも報じられている。",
+      "first_seen": "2026-08-24",
+      "category": "B"
+    },
     {
       "title": "英Castings plc、ウィリアム・リー工場の電力供給トラブルを乗り越え通期見通しを据え置き ― 重量トラック向けに加え風力発電向け受注が伸長",
       "url": "https://www.insidermedia.com/news/midlands/castings-plc-on-track-despite-power-supply-issue-with-new-production-line",
