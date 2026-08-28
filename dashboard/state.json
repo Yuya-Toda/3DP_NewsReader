@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-08-24T22:00:00Z",
+  "last_checked": "2026-08-28T22:12:29Z",
   "discovered_sources": [
     {
       "domain": "thebusinessdesk.com",
@@ -76,6 +76,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "voxeljet・ボッシュ レックスロス・フラウンホーファーIGCV、大型鋳造用砂型3Dプリンタ「VX9000」を共同開発 ― 10〜60トン級鋳物に対応",
+      "url": "https://www.voxelmatters.com/bosch-rexroth-voxeljet-and-fraunhofer-igcv-build-3d-printer-for-heavy-casting-molds/",
+      "source": "VoxelMatters",
+      "published_date": "2026-08-21",
+      "summary": "voxeljet、ボッシュ・レックスロス、フラウンホーファー鋳造・複合材料・加工技術研究所(IGCV)は共同で、大型鋳造用の産業用バインダージェット3Dプリンタ「VX9000」を開発したと発表した。ビルドボリューム9×7×1.8mを実現し、再生砂を用いて10〜60トン級鋳物用の砂型を造形可能で、風力・水力発電タービン、ポンプ、自動車・航空機部品向け大型鋳物への応用を想定している。ボッシュ・レックスロスは8m長のリニア軸を含む駆動システムを供給しており、開発の起源は2021年にGEベルノバ(旧GEリニューアブルエナジー)がフラウンホーファーIGCV・voxeljetと開始した洋上風力タービン向けAdvanced Casting Cellプロジェクトに遡る。",
+      "first_seen": "2026-08-28",
+      "category": "A"
+    },
+    {
+      "title": "BMWグループ・ランツフート工場、「Automotive Lean Production Award 2026」を受賞 ― 軽金属鋳造・デジタル化・イノベーションを評価",
+      "url": "https://www.foundry-planet.com/d/bmw-group-plant-landshut-receives-automotive-lean-production-award-2026",
+      "source": "foundry-planet.com",
+      "published_date": "2026-08-18",
+      "summary": "BMWグループの完成車部品製造拠点として世界最大規模を誇るランツフート工場(ドイツ)が、「Automotive Lean Production Award 2026」のOEM部品製造部門を受賞した。審査員は同工場の幅広い技術力、製品・工程イノベーションの実績、新技術を迅速かつ低コストで量産へ導入する能力を高く評価した。約3800人の従業員がエンジン・シャシー・構造部品向けの軽金属鋳造品をはじめカーボンファイバー・樹脂部品、電気電子システム、コックピット・内装モジュールなどを製造しており、自動車業界における鋳造・デジタル化・イノベーション融合の代表事例として注目される。",
+      "first_seen": "2026-08-28",
+      "category": "B"
+    },
     {
       "title": "コベントリーの鋳物工場Sarginsons Industries、英国初の無機バインダー砂型3Dプリンタに80万ポンド投資 ― voxeljet製VX1000-S IOBを導入",
       "url": "https://www.thebusinessdesk.com/westmidlands/news/2116063-coventry-foundry-becomes-first-in-uk-to-invest-in-3d-sand-core-printing",
