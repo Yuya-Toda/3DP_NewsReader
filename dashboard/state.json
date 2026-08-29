@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-08-28T22:12:29Z",
+  "last_checked": "2026-08-29T21:30:00Z",
   "discovered_sources": [
     {
       "domain": "thebusinessdesk.com",
@@ -76,6 +76,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "サウジアラビアの鋳造会社National Metal Manufacturing and Casting Co.(Maadaniyah)、2026年第2四半期決算を発表 ― 売上高は前年同期比39%減の3918万リヤルも、純損失は540万リヤルから200万リヤルへ縮小",
+      "url": "https://english.mubasher.info/news/4654648/National-Metal-Manufacturing-and-Casting-Co-announces-its-Interim-Financial-results-for-the-Period-Ending-on-2026-06-30-Six-Months-/",
+      "source": "Mubasher Info",
+      "published_date": "2026-08-09",
+      "summary": "サウジアラビアの鋳造会社National Metal Manufacturing and Casting Co.(通称Maadaniyah、タダウル上場コード2220)は、2026年6月30日締めの第2四半期(累計6カ月)決算を発表した。売上高は前年同期の6387万リヤルから3918万リヤルへ約39%減少したものの、純損失は540万リヤルから200万リヤルへと縮小し、1株当たり損失も0.15リヤルから0.06リヤルへ改善した。鋳造業界における中小メーカーの業績動向を示す一例として取り上げる。",
+      "first_seen": "2026-08-29",
+      "category": "B"
+    },
     {
       "title": "voxeljet・ボッシュ レックスロス・フラウンホーファーIGCV、大型鋳造用砂型3Dプリンタ「VX9000」を共同開発 ― 10〜60トン級鋳物に対応",
       "url": "https://www.voxelmatters.com/bosch-rexroth-voxeljet-and-fraunhofer-igcv-build-3d-printer-for-heavy-casting-molds/",
