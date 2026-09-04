@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-08-29T22:14:00Z",
+  "last_checked": "2026-09-04T01:05:56Z",
   "discovered_sources": [
     {
       "domain": "thebusinessdesk.com",
@@ -76,6 +76,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "鋳物製造商社の丸祐、鋳鍛造大手テクノメタルを買収 ― 株式96.7%取得、タイ拠点も確保",
+      "url": "https://www.nikkei.com/article/DGXZQOFD270A60X20C26A8000000/",
+      "source": "日本経済新聞",
+      "published_date": "2026-09-01",
+      "summary": "中国製鋳物の輸入販売を手がける鋳物製造商社の丸祐(三重県四日市市)は2026年9月1日付で、自動車・建設機械・産業機械向け鋳造品・鍛造品・アルミダイカスト部品を手がけるテクノメタル(福島県二本松市)を買収した。企業再生ファンドのジェイ・ウィル・パートナーズが特別目的会社を通じて保有していたテクノメタル株式の96.7%を取得し、日本国内に加えタイの生産拠点も確保する。両社の製造技術・拠点を組み合わせ、小物から大物まで一元対応できる「総合鋳鍛造ソリューション体制」の構築を目指す。",
+      "first_seen": "2026-09-04",
+      "category": "B"
+    },
+    {
+      "title": "山形鋳物の老舗「菊地保寿堂」、事業停止・自己破産へ ― 1604年創業、負債約3.8億円",
+      "url": "https://www.fukeiki.com/2026/09/kikuchi-hojudo.html",
+      "source": "不景気.com",
+      "published_date": "2026-09-01",
+      "summary": "1604年創業で400年余りの歴史を持つ山形鋳物の老舗メーカー、株式会社菊地保寿堂(山形市)が2026年8月31日付で事業を停止し、自己破産を申請する方針であることが判明した。負債総額は約3億8000万円。鉄瓶や鉄釜などの伝統工芸品で海外からも高い人気を得ていたが、コロナ禍による輸出減少や国際的な景気低迷の影響で業績が低迷し、事業継続を断念した。伝統的な鋳物産地・山形における老舗鋳物メーカーの倒産事例として注目される。",
+      "first_seen": "2026-09-04",
+      "category": "B"
+    },
+    {
+      "title": "Arc Impact、防衛産業向け「デジタル鋳造サービス」を発表 ― シミュレーションと砂型3Dプリンティングを融合",
+      "url": "https://3dprintingindustry.com/news/arc-impact-debuts-digital-casting-services-for-defense-manufacturers-254156/",
+      "source": "3D Printing Industry",
+      "published_date": "2026-08-26",
+      "summary": "旧Desktop Metalの資産を継承したArc Impact(ExOne/voxeljetブランドの砂型バインダージェット技術を保有)は、防衛・政府関連の製造プログラム向けに「デジタル鋳造サービス(Digital Casting Services)」の提供を開始したと発表した。金型パッケージ設計・押湯/ゲーティング設計・凝固シミュレーションと3Dプリント砂型を組み合わせることで、原型(パターン)なしで旧式・入手困難な部品を復元・製造できるようにする。事前シミュレーションと砂型3Dプリンティングの組み合わせにより鋳造失敗率を低減し、休止設備の再稼働や希少部品のサプライチェーン途絶リスクにも対応する取り組みとして注目される。",
+      "first_seen": "2026-09-04",
+      "category": "A"
+    },
     {
       "title": "米鋳造装置大手サイント・アメリカ、トム・バレット下院議員(ミシガン州選出)を工場に招請 ― 米国鋳造業界の経済的重要性をアピール",
       "url": "https://sintoamerica.com/sinto-advocates-for-the-future-of-u-s-metalcasting/",
