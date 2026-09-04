@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-09-04T01:05:56Z",
+  "last_checked": "2026-09-04T22:12:57Z",
   "discovered_sources": [
     {
       "domain": "thebusinessdesk.com",
@@ -76,6 +76,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "エネルギー価格高騰、鋳物メーカーの収益圧迫 ― 自助努力による「コスト増吸収」は限界に",
+      "url": "https://www.japanmetaldaily.com/articles/-/114066",
+      "source": "日刊鉄鋼新聞(Japan Metal Daily)",
+      "published_date": "2026-09-02",
+      "summary": "溶解・鋳造工程で大量の電力・ガスを消費する鋳物メーカーにとって、エネルギー価格高騰がコスト構造を圧迫しており、鋳鉄業界では購入電力費が売上高比10〜20%に達するケースも出ていると報じられた。鋳物メーカーは取引上下請け的立場で利益率が1〜2%程度と薄く、エネルギー・原材料・労務費の価格転嫁は進んでいるものの転嫁率は総じて30〜70%にとどまり、高効率設備導入や溶解炉稼働改善など自助努力だけではコスト増を吸収しきれない企業が増えている実態が示された。",
+      "first_seen": "2026-09-04",
+      "category": "B"
+    },
     {
       "title": "鋳物製造商社の丸祐、鋳鍛造大手テクノメタルを買収 ― 株式96.7%取得、タイ拠点も確保",
       "url": "https://www.nikkei.com/article/DGXZQOFD270A60X20C26A8000000/",
