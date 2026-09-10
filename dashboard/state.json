@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-09-09T00:00:00Z",
+  "last_checked": "2026-09-10T00:00:00Z",
   "discovered_sources": [
     {
       "domain": "response.jp",
@@ -88,6 +88,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "独Laempe Mössner Sinto(新東工業グループ)の砂型3Dプリンター「L3D-200」、独ポンプメーカーHerborner Pumpentechnikで事前検収試験に合格",
+      "url": "https://www.voxelmatters.com/laempes-l3d-200-sand-printer-passes-pre-acceptance-test-at-herborner-pumpentechnik/",
+      "source": "VoxelMatters",
+      "published_date": "2026-09-09",
+      "summary": "新東工業グループ傘下の独Laempe Mössner Sintoは、新型産業用バインダージェット式砂型3Dプリンター「L3D-200」の初号機について、独ヘルボルンの遠心ポンプメーカーHerborner Pumpentechnik(自社鋳造設備を持つ150年超の歴史を持つ家族経営企業)の工場での事前検収試験に合格したと発表した。同社は2025年7月にL3D-200を発注済みで、1985年からLaempe製の従来型コアショットマシンを稼働させてきた実績があり、まずは試作・小ロット生産向けに砂型・中子造形へバインダージェット技術を追加導入する。モジュール式・オープンアーキテクチャを採用し鋳造所が独自にバインダーや樹脂を選択できる点が特徴で、大手鋳造装置メーカーグループによる新規顧客獲得事例として注目される。",
+      "first_seen": "2026-09-10",
+      "category": "A"
+    },
     {
       "title": "第一実業、ExOneと国内における砂型3Dプリンター販売代理店契約を締結 ― voxeljetに続き2ブランド体制に",
       "url": "https://response.jp/article/2026/09/09/416346.html",
