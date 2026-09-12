@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-09-11T00:00:00Z",
+  "last_checked": "2026-09-12T00:00:00Z",
   "discovered_sources": [
     {
       "domain": "response.jp",
@@ -88,6 +88,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "遼寧省・阜新力達鋼鉄鋳造、単重110トンのHT300製重量工作機械鋳物を製造 ― 100トン超級鋳物で重量・性能の新記録",
+      "url": "https://zhuzaotoutiao.com/xw/html/24464.shtml",
+      "source": "铸造头条(Zhuzao Toutiao)",
+      "published_date": "2026-09-05",
+      "summary": "中国遼寧省の阜新力達鋼鉄鋳造は、ねずみ鋳鉄HT300材質を用いた単重110トンの重量工作機械用鋳物を製造したと、業界メディア铸造头条が2026年9月5日付の業界資訊まとめで報じた。同社は「万トン級超大型ダイカストマシン向け百トン級厚肉断面シリコン固溶強化球状黒鉛鋳鉄鋳物」の実用化で知られる重量鋳物メーカーで、今回の110トン級鋳物は従来の百トン級鋳物からさらに重量・性能面で記録を更新するものとして紹介された。大型工作機械向け鋳物の技術力向上を示す事例として取り上げる。",
+      "first_seen": "2026-09-12",
+      "category": "B"
+    },
     {
       "title": "「工業炉・鋳造展」が開幕 ― 情報交換・ビジネス契機に、サーモテック2026とFoundry Tech + Expo 2026を東京ビッグサイトで同時開催",
       "url": "https://www.japanmetal.com/news-t20260910150703.html",
