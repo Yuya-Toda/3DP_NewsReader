@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-09-13T22:12:41Z",
+  "last_checked": "2026-09-14T22:14:05Z",
   "discovered_sources": [
     {
       "domain": "response.jp",
@@ -88,6 +88,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "虹技、姫路の大型鋳物工場に大型門型クレーンを新設 ― 投資額1億円、玉掛け作業の安全性向上とレッカー費削減へ",
+      "url": "https://www.japanmetal.com/news-t20260904150640.html",
+      "source": "日刊産業新聞(japanmetal.com)",
+      "published_date": "2026-09-04",
+      "summary": "自動車用プレス金型鋳物・産業機械用鋳物を手がける虹技(兵庫県姫路市)は、大型鋳物工場に屋外用の大型門型クレーンを新設したと発表した。投資額は約1億円で、2026年9月中に本格稼働する見込み。生産効率の向上に加え、玉掛け作業の安全性向上や外部委託していたクレーン(レッカー)費用の削減にもつながるとしている。",
+      "first_seen": "2026-09-14",
+      "category": "B"
+    },
+    {
+      "title": "インド・コインバトールで国際鋳造見本市「Inter Foundry 2026」開催 ― 独VDMAパビリオン初出展、世界の鋳造業界の中心地としてインドが存在感",
+      "url": "https://www.foundry-planet.com/d/inter-foundry-2026-india-moves-to-the-center-of-the-international-foundry-world",
+      "source": "foundry-planet.com",
+      "published_date": "2026-08-24",
+      "summary": "ダイカスト展「Inter DieCast」と同時開催の国際鋳造見本市「Inter Foundry 2026」が2026年9月10〜12日、インド・コインバトールのCODISSIA見本市会場で開催された。300社超が出展し展示面積は約1.8万平方メートルに達し、初めてとなるドイツVDMAパビリオンや新設の「Castings Zone」、国際会議プログラム、GIFA Nightなどが目玉となった。世界第2位の鋳物生産国であるインド、特に600社超の鋳物工場が集積するコインバトールが国際鋳造業界の中心地としての存在感を強めている事例として紹介された。",
+      "first_seen": "2026-09-14",
+      "category": "B"
+    },
     {
       "title": "遼寧省・阜新力達鋼鉄鋳造、単重110トンのHT300製重量工作機械鋳物を製造 ― 100トン超級鋳物で重量・性能の新記録",
       "url": "https://zhuzaotoutiao.com/xw/html/24464.shtml",
