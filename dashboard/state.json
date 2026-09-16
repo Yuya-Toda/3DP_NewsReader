@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-09-15T22:10:23Z",
+  "last_checked": "2026-09-16T22:11:53Z",
   "discovered_sources": [
     {
       "domain": "response.jp",
@@ -88,6 +88,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "GM、米インディアナ州ベッドフォード鋳造工場に4000万ドル投資 ― トランスミッション用鋳造品の生産能力拡大",
+      "url": "https://www.wbiw.com/2026/09/10/gm-to-invest-40-million-in-bedford-casting-operations/",
+      "source": "WBIW",
+      "published_date": "2026-09-10",
+      "summary": "ゼネラルモーターズ(GM)は、米インディアナ州ベッドフォードの鋳造工場「Bedford Casting Operations」に4000万ドルを投資すると発表した。投資額のうち約2000万ドルはトランスミッションケース製造用機械6台の改修に、残り約2000万ドルはエンジンブロック生産の支援に充てられる。10速オートマチックトランスミッション向けの生産能力拡大に加え、既存の8速トランスミッションの生産能力も拡張する。新たな生産能力は2027年の稼働開始を見込み、雇用創出は予定していないものの、約600人規模の現行雇用の維持につながるとされる。同工場では2021年以降複数回にわたり大型投資が行われており、GMは2026年に米国内製造網全体で約90億ドルを投資する計画。複数の自動車業界専門メディア(GM Authority、ipm.org等)でも報じられている。",
+      "first_seen": "2026-09-16",
+      "category": "B"
+    },
     {
       "title": "虹技、姫路の大型鋳物工場に大型門型クレーンを新設 ― 投資額1億円、玉掛け作業の安全性向上とレッカー費削減へ",
       "url": "https://www.japanmetal.com/news-t20260904150640.html",
