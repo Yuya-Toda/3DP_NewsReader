@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-09-17T22:11:38Z",
+  "last_checked": "2026-09-18T22:14:34Z",
   "discovered_sources": [
     {
       "domain": "response.jp",
@@ -85,9 +85,39 @@
       "source": "Cast Metals Federation",
       "first_seen": "2026-08-16",
       "example_url": "https://www.castmetalsfederation.com/news/2026/02/cmf-huttenes-albertus-supplier-member"
+    },
+    {
+      "domain": "xinsanban.eastmoney.com",
+      "first_seen": "2026-09-18",
+      "article_count": 1,
+      "note": "東方財富網が運営する新三板(全国中小企業株式譲渡システム)情報開示プラットフォーム。峰华卓立の収購報告書・法律意見書等の開示文書を掲載。"
+    },
+    {
+      "domain": "tradingview.com",
+      "first_seen": "2026-09-18",
+      "article_count": 1,
+      "note": "金融情報プラットフォーム。Reuters等の配信記事を転載。Foseco India(Vesuvius子会社)のメサナ拠点買収を報道。"
     }
   ],
   "articles": [
+    {
+      "title": "峰华卓立(FHZL)の実質的支配者が変更 ― 湖南恒跃智控が博深数智を通じ39.02%株式の支配権を取得",
+      "url": "https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202606041823253547",
+      "source": "東方財富網新三板(xinsanban.eastmoney.com)",
+      "published_date": "2026-06-04",
+      "summary": "砂型3Dプリンター大手で新三板上場の広東峰华卓立科技(証券コード834914)について、湖南恒跃智控有限公司が博深数智の100%株式を譲り受け、博深数智が直接保有する峰华卓立株式2190万7750株(発行済み株式の39.02%)の支配権と、追加で34.17%相当分の受託議決権を間接的に取得したことが、2026年6月付の収購報告書・法律意見書で明らかになった。買収完了後も筆頭株主(博深数智)自体に変更はないものの、実質的支配者は彭铁缆氏から、恒跃智控を通じ合計73.19%の議決権を共同支配する夏慧颖氏・左宗超氏へと交代した。譲渡人は湖南博深実業集団と彭铁缆氏で、恒跃智控は2026年6月1日の株主総会で本件を可決している。",
+      "first_seen": "2026-09-18",
+      "category": "A"
+    },
+    {
+      "title": "Foseco India(Vesuvius子会社)、インド・メサナのるつぼ製造拠点をVesuvius Indiaから買収 ― 非鉄鋳造事業の強化へ",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44A1HD:0-foseco-india-to-buy-vesuvius-india-mehsana-facility-for-432-5-million-rupees/",
+      "source": "Reuters(TradingView配信)",
+      "published_date": "2026-08-13",
+      "summary": "鋳造用消耗品大手FOSECOのインド上場子会社Foseco India Limitedは2026年8月13日、親会社Vesuvius Indiaが保有するグジャラート州メサナのるつぼ(クルーシブル)製造拠点を、事業譲渡(スランプセール)方式で4億3250万ルピー(約520万米ドル相当)にて買収すると発表した。同拠点はるつぼ・ストッパー・スリーブなど非鉄金属鋳造向け製品を手がけ、2025暦年の売上高は5億8100万ルピー。買収完了は2026年12月31日を予定しており、Foseco Indiaはるつぼ製造を自社の直接管理下に置くことで非鉄鋳造事業の強化を図る。",
+      "first_seen": "2026-09-18",
+      "category": "A"
+    },
     {
       "title": "GM、米インディアナ州ベッドフォード鋳造工場に4000万ドル投資 ― トランスミッション用鋳造品の生産能力拡大",
       "url": "https://www.wbiw.com/2026/09/10/gm-to-invest-40-million-in-bedford-casting-operations/",
