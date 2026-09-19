@@ -1,7 +1,13 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-09-18T22:14:34Z",
+  "last_checked": "2026-09-19T22:07:56Z",
   "discovered_sources": [
+    {
+      "domain": "news.qq.com",
+      "first_seen": "2026-09-19",
+      "article_count": 1,
+      "note": "騰訊(Tencent)運営のニュースアグリゲーター。中国の主要財経メディア記事を転載。追跡対象企業AMSKY(愛司凱)の2026年上半期決算を報道。"
+    },
     {
       "domain": "response.jp",
       "first_seen": "2026-09-09",
@@ -100,6 +106,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "愛司凱(AMSKY、300521)、2026年上半期決算を発表 ― 売上高8415万元(前年比10.58%増)も純損失拡大、3Dプリント事業は5割超の伸び",
+      "url": "https://news.qq.com/rain/a/20260830A03OQY00",
+      "source": "騰訊新聞(news.qq.com)",
+      "published_date": "2026-08-30",
+      "summary": "中国の砂型3Dプリンター大手・愛司凱(爱司凯、300521)は2026年8月29日前後、2026年上半期(1〜6月)決算を発表した。営業収入は前年同期比10.58%増の8415.15万元となった一方、親会社株主に帰属する純利益は同21.41%減の-1606.87万元と赤字が拡大した。3Dプリント設備関連事業の収入は前年同期比53.34%増と大きく伸び売上成長の中核を担ったが、販売費用の増加(同33.50%増)や為替差損の影響で「増収不増利」の状況が続いている。",
+      "first_seen": "2026-09-19",
+      "category": "A"
+    },
+    {
+      "title": "米鋳鉄鋳物大手Grede、ペンシルベニア州ミードビルの鋳物工場を10月10日付で閉鎖へ ― WARN法通知、従業員約170人に影響",
+      "url": "https://www.foundrymag.com/issues-and-ideas/news/55399346/warn-notice-filed-for-penn-iron-foundry-grede-llc",
+      "source": "Foundry Management & Technology(foundrymag.com)",
+      "published_date": "2026-08-18",
+      "summary": "米国の大手鋳鉄鋳物メーカーGrede LLCは、ペンシルベニア州ミードビルのダクタイル鋳鉄鋳物工場(旧Neenah Enterprises、2021年8月にGredeが買収)を2026年10月10日付で閉鎖すると、WARN法(労働者調整・再訓練通知法)に基づく通知をペンシルベニア州当局に提出した。閉鎖に伴い機械加工部門を含め約170人の従業員が影響を受ける。同工場は大型トラック・建設機械・鉄道車両・鉱山機械向けのダクタイル鋳鉄およびオーステンパー処理ダクタイル鋳鉄(ADI)鋳物を製造していた。米国鋳造業界における工場閉鎖・雇用縮小の事例として注目される。",
+      "first_seen": "2026-09-19",
+      "category": "B"
+    },
     {
       "title": "峰华卓立(FHZL)の実質的支配者が変更 ― 湖南恒跃智控が博深数智を通じ39.02%株式の支配権を取得",
       "url": "https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202606041823253547",
