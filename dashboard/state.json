@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-09-29T12:00:00Z",
+  "last_checked": "2026-09-30T22:11:04Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -128,9 +128,24 @@
       "first_seen": "2026-09-18",
       "article_count": 1,
       "note": "金融情報プラットフォーム。Reuters等の配信記事を転載。Foseco India(Vesuvius子会社)のメサナ拠点買収を報道。"
+    },
+    {
+      "domain": "dealroom.co",
+      "first_seen": "2026-09-30",
+      "article_count": 1,
+      "note": "欧州スタートアップ・M&A情報を扱うニュースプラットフォーム(Dealroom)。欧州中堅鋳物メーカー間のM&A(Ebroacero社によるFTR社買収)を報道。"
     }
   ],
   "articles": [
+    {
+      "title": "西スペインの鋳物メーカーEbroacero、トレド近郊の鋳物工場FTRを買収 ― ステンレス鋼・鋳鉄分野へ事業拡大",
+      "url": "https://dealroom.co/news/156933-spains-ebroacero-buys-foundry-ftr-to-add-stainless-steel-and-iron-castin/",
+      "source": "Dealroom.co",
+      "published_date": "2026-09-27",
+      "summary": "スペイン・サラゴサ拠点の炭素鋼鋳物メーカーEbroaceroは2026年9月、トレド近郊トリホス(Torrijos)の鋳鉄部品メーカーFTR(F.T.R. Válvulas y Fundición)を買収したと発表した。買収金額は非公開。Ebroaceroは創業60年超で最大14トンの炭素鋼部品を手がけており、今回の買収でFTRが持つ鋳鉄・球状黒鉛鋳鉄・合金鋳鉄(最大1.5トン)の製造能力を取り込むとともに、FTRのトリホス拠点にステンレス鋼生産ラインを新設する計画で、2027年夏には試作品完成、従業員も現行から約30人体制へ増員する予定。FTRは独自ブランド・独立運営を維持しつつ、営業・技術・管理部門を両社で共有する。欧州鋳造業界における中堅鋳物メーカー同士の事業領域拡大型M&A事例として注目される。",
+      "first_seen": "2026-09-30",
+      "category": "B"
+    },
     {
       "title": "筑波ダイカスト工業、ベトナムで工場増設へ ― 自動車・産業機械向け受注拡大に対応、2027年春稼働目標",
       "url": "https://www.japanmetaldaily.com/articles/-/266928",
