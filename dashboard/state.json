@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-10-02T06:00:00Z",
+  "last_checked": "2026-10-03T22:06:55Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -140,9 +140,24 @@
       "first_seen": "2026-10-01",
       "article_count": 1,
       "note": "耐火物・鋳造用資材大手RHIマグネシタの公式プレスリリースサイト。ベスビウス(Vesuvius、フォセコ親会社)への買収提案発表など、業界再編に関する一次情報を発信。"
+    },
+    {
+      "domain": "bendigoadvertiser.com.au",
+      "first_seen": "2026-10-03",
+      "article_count": 1,
+      "note": "豪ベンディゴ地域の地方新聞(Bendigo Advertiser)。地元鋳物工場Keech Castingsの親会社Derwent Industriesの経営破綻・管財人選任を報道。"
     }
   ],
   "articles": [
+    {
+      "title": "Keech Castings' Bendigo foundry in limbo as parent Derwent Industries enters administration",
+      "url": "https://www.bendigoadvertiser.com.au/story/9354477/keech-castings-bendigo-foundry-in-limbo-as-parent-struggles/",
+      "source": "Bendigo Advertiser",
+      "published_date": "2026-10-02",
+      "summary": "Keech Castingsの親会社であるDerwent Industries(豪ベンディゴ/ホバートで鋳物工場を運営)が経営難により管財人(FTI Consulting)の管理下に入ったことが明らかになった。主要債権者の豪州国立銀行(NAB)が関与しており、ベンディゴの鋳物工場で働く約70人の従業員の雇用が不透明な状況となっている。",
+      "first_seen": "2026-10-03",
+      "category": "B"
+    },
     {
       "title": "RHIマグネシタ、鋳造用バインダー大手フォセコの親会社ベスビウス(Vesuvius)に買収提案 ― 現金・株式交換で約13.7億ポンド、筆頭株主Cevian Capitalも支持",
       "url": "https://www.rhimagnesita.com/rhi-magnesita-notes-possible-offer-discussions-with-vesuvius-plc/",
