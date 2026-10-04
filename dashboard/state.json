@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-10-03T22:06:55Z",
+  "last_checked": "2026-10-04T22:20:37Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -149,6 +149,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "ME Elecmetal、米ダルース鋳造所で「Manufacturing Dayオープンハウス」開催 ― 1500万ドル規模の誘導炉更新プロジェクトを特別公開",
+      "url": "https://www.moderncasting.com/node/3082",
+      "source": "Modern Casting(American Foundry Society、moderncasting.com)",
+      "published_date": "2026-10-03",
+      "summary": "米国鋳物協会(AFS)会員のME Elecmetal(チリ系鋳造機械部品大手)は、2026年10月3日に米ミネソタ州ダルースの鋳造工場で「Manufacturing Dayオープンハウス」を開催し、従業員・学生・地域住民向けに工場見学や鋳造デモンストレーションを実施した。会場では、排出削減・省エネルギー・作業環境改善を目的として進行中の1500万ドル規模の誘導炉導入プロジェクト(既存の電気アーク炉3基を誘導炉2基に置き換え)を紹介する特別展示も行われた。",
+      "first_seen": "2026-10-04",
+      "category": "B"
+    },
     {
       "title": "Keech Castings' Bendigo foundry in limbo as parent Derwent Industries enters administration",
       "url": "https://www.bendigoadvertiser.com.au/story/9354477/keech-castings-bendigo-foundry-in-limbo-as-parent-struggles/",
