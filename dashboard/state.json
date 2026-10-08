@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-10-07T12:00:00Z",
+  "last_checked": "2026-10-08T12:00:00Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -690,15 +690,6 @@
       "category": "A"
     },
     {
-      "title": "ExOneとvoxeljet、8カ国で統合アフターマーケットサービス網を開始",
-      "url": "https://3dprintingindustry.com/news/exone-and-voxeljet-launch-unified-global-aftermarket-support-network-across-eight-countries-246414/",
-      "source": "3D Printing Industry",
-      "published_date": "2026-04-10",
-      "summary": "ExOne Global Holdings傘下のExOneとvoxeljetが、砂型バインダージェット装置向けの統合アフターマーケットサービス網を米国・ドイツ・日本・中国・インドなど8カ国で開始した。両社の技術者を統一カリキュラムで認証し、部品供給とサービス対応を迅速化することで、旧デスクトップメタル体制下で低下した顧客の信頼回復を狙う。",
-      "first_seen": "2026-08-16",
-      "category": "A"
-    },
-    {
       "title": "伊藤鋳造鉄工所(茨城)、アルミ部品の岡本合金鋳造所を子会社化 ― 常陽キャピタルパートナーズが仲介",
       "url": "https://www.nikkei.com/article/DGXZQOCC125E10S6A610C2000000/",
       "source": "日本経済新聞",
@@ -769,6 +760,7 @@
     "https://3dprint.com/323546/3d-printing-news-briefs-1-31-2026/",
     "https://www.castmetalsfederation.com/news/2026/02/cmf-huttenes-albertus-supplier-member",
     "https://mexicobusiness.news/trade-and-investment/news/nemak-completes-us336m-acquisition-gf-casting-solutions-0",
-    "https://www.voxelmatters.com/exone-global-holdings-sets-board-as-it-integrates-exone-and-voxeljet/"
+    "https://www.voxelmatters.com/exone-global-holdings-sets-board-as-it-integrates-exone-and-voxeljet/",
+    "https://3dprintingindustry.com/news/exone-and-voxeljet-launch-unified-global-aftermarket-support-network-across-eight-countries-246414/"
   ]
 }
