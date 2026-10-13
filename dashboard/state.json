@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-10-12T22:06:00Z",
+  "last_checked": "2026-10-13T23:50:00Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -11,7 +11,7 @@
     {
       "domain": "foundrymag.com",
       "first_seen": "2026-08-19",
-      "article_count": 3,
+      "article_count": 5,
       "note": "Foundry Management & Technology(旧Foundry Trade Journal系)。米国鋳造業界専門メディア。Grede LLC鋳物工場閉鎖(WARN法通知)、Metal Technologies(MTI)によるRochester Metal Products買収完了などを報道。"
     },
     {
@@ -149,6 +149,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "米ArtiFlex Holdings、ブラス(真鍮)鋳物新工場をウィスコンシン州に開設 ― 3億4000万ドル規模の新設プロジェクト、A.Y. McDonald Manufacturing",
+      "url": "https://www.foundrymag.com/issues-and-ideas/news/55409833/new-brass-foundry-opens-in-wisconsin-ay-mcdonald-manufacturing-co",
+      "source": "Foundry Management & Technology(foundrymag.com)",
+      "published_date": "2026-10-06",
+      "summary": "米国の水道・配管用品大手A.Y. McDonald Manufacturing Co.は、ウィスコンシン州ディッキービルに新設した真鍮(ブラス)鋳物工場を開所したと発表した。延床面積約3万3000平方メートル(36万平方フィート)の新工場で、水道・配管・天然ガス輸送向けの真鍮鋳物を生産する。3年間・総額3億4000万ドル規模のプロジェクトの成果で、米国鋳造業界における大型新設投資事例として注目される。",
+      "first_seen": "2026-10-13",
+      "category": "B"
+    },
+    {
+      "title": "SinterCast(スウェーデン)、2026年第3四半期のCGI(コンパクト黒鉛鋳鉄)生産実績を発表 ― 前年同期比19%増、サンプリングカップ出荷は80%増",
+      "url": "https://foundrymag.com/materials/news/55411349/cgi-output-rising-developer-reports-sintercast-ab",
+      "source": "Foundry Management & Technology(foundrymag.com)",
+      "published_date": "2026-10-13",
+      "summary": "CGI(コンパクト黒鉛鋳鉄)プロセス技術の開発元であるスウェーデンのSinterCast ABは、2026年第3四半期のシリーズ生産実績を発表した。CGI生産量は前年同期比19%増、品質管理用サンプリングカップの出荷量は同80%増となり、年換算で約325万「エンジン相当」の生産ペースに達したという。鋳鉄材料分野における需要拡大・技術普及を示す統計データとして注目される。",
+      "first_seen": "2026-10-13",
+      "category": "B"
+    },
     {
       "title": "ウノミンダ(Uno Minda)、インド国内で総額1415億ルピー規模の段階的設備投資計画を発表 ― ホースル(タミルナド州)のアルミ鋳造能力を162%増強",
       "url": "https://www.alcircle.com/news/uno-minda-plans-inr-14-15bn-capex-as-aluminium-casting-capacity-jumps-162-121189",
@@ -681,15 +699,6 @@
       "category": "A"
     },
     {
-      "title": "ExOne Global Holdings、主力プリントヘッドの製造をデトロイトで開始 ― 米国顧客向けメンテナンス費用を削減",
-      "url": "https://3dprint.com/325264/exone-moves-3d-printing-production-to-detroit-cuts-costs-for-u-s-customers/",
-      "source": "3DPrint.com",
-      "published_date": "2026-04-15",
-      "summary": "ExOne Global Holdingsは2026年4月15日、主力プリントヘッド「Spectra Mono-Z」の米国内製造をミシガン州キャントン(デトロイト近郊)で開始したと発表した。現地部品在庫の設置、新価格リスト、メンテナンスプログラムの刷新、S-Maxユーザー向け24時間電話サポートの無償提供など、米国顧客のリードタイムとコストを改善する施策を打ち出した。",
-      "first_seen": "2026-08-16",
-      "category": "A"
-    },
-    {
       "title": "伊藤鋳造鉄工所(茨城)、アルミ部品の岡本合金鋳造所を子会社化 ― 常陽キャピタルパートナーズが仲介",
       "url": "https://www.nikkei.com/article/DGXZQOCC125E10S6A610C2000000/",
       "source": "日本経済新聞",
@@ -761,6 +770,7 @@
     "https://www.castmetalsfederation.com/news/2026/02/cmf-huttenes-albertus-supplier-member",
     "https://mexicobusiness.news/trade-and-investment/news/nemak-completes-us336m-acquisition-gf-casting-solutions-0",
     "https://www.voxelmatters.com/exone-global-holdings-sets-board-as-it-integrates-exone-and-voxeljet/",
-    "https://3dprintingindustry.com/news/exone-and-voxeljet-launch-unified-global-aftermarket-support-network-across-eight-countries-246414/"
+    "https://3dprintingindustry.com/news/exone-and-voxeljet-launch-unified-global-aftermarket-support-network-across-eight-countries-246414/",
+    "https://3dprint.com/325264/exone-moves-3d-printing-production-to-detroit-cuts-costs-for-u-s-customers/"
   ]
 }
