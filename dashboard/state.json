@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-10-15T09:00:00Z",
+  "last_checked": "2026-10-16T09:00:00Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -94,7 +94,7 @@
     {
       "domain": "alcircle.com",
       "first_seen": "2026-08-16",
-      "article_count": 3,
+      "article_count": 4,
       "note": "アルミニウム産業専門ニュースサイト(AlCircle)。アルミダイカスト工場の設備投資関連ニュースを継続的に報道。"
     },
     {
@@ -149,6 +149,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Golden Aluminum・SMS group、連続鋳造技術「Nexcast」の工業規模稼働をALUMINIUM 2026(デュッセルドルフ)で発表",
+      "url": "https://www.alcircle.com/news/golden-aluminum-sms-group-showcase-taking-nexcast-to-industrial-scale-at-aluminium-2026-in-dusseldorf-121492",
+      "source": "AlCircle(alcircle.com)",
+      "published_date": "2026-10-09",
+      "summary": "米Golden Aluminumと独SMS groupは、共同開発したアルミニウム帯板連続鋳造技術「Nexcast」を工業規模で稼働させたと、2026年10月6〜8日にドイツ・デュッセルドルフで開催された展示会「ALUMINIUM 2026」で発表した。同技術は米コロラド州フォートルプトン工場で2025年7月から稼働しており、40年前の旧式ブロック鋳造機を置き換えて36インチ幅の熱間圧延コイルを直接製造できるほか、最大60時間の連続鋳造キャンペーンや高マグネシウム合金(AA5182)への切替対応も実証済み。両社はこれを「40年以上ぶりの鋳造技術における大きな進歩」と位置づけており、コンパクトなミニミルでも高合金の扁平圧延製品を製造できる道を開くものとして注目される。",
+      "first_seen": "2026-10-16",
+      "category": "B"
+    },
     {
       "title": "華陽集団(002906、Foryou Corporation)、支配株主から四川九洲投資控股集団(国有)への支配権移転手続きが進行中 ― 10月12日に実際支配者間の一致行動協議継続更新を開示",
       "url": "https://www.sohu.com/a/1086879269_122121789",
