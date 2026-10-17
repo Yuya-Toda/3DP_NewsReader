@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-10-16T09:00:00Z",
+  "last_checked": "2026-10-17T22:08:54Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -94,7 +94,7 @@
     {
       "domain": "alcircle.com",
       "first_seen": "2026-08-16",
-      "article_count": 4,
+      "article_count": 5,
       "note": "アルミニウム産業専門ニュースサイト(AlCircle)。アルミダイカスト工場の設備投資関連ニュースを継続的に報道。"
     },
     {
@@ -149,6 +149,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "カーライル系Highway Roop Precision Technologies、インドのアルミダイカストメーカーChamundi Die Castを買収 ― 鍛造・機械加工事業にダイカスト能力を追加",
+      "url": "https://www.alcircle.com/news/highway-roop-acquires-chamundi-to-expand-aluminum-die-casting-machining-capabilities-121395",
+      "source": "AlCircle(alcircle.com)",
+      "published_date": "2026-09-29",
+      "summary": "カーライル・グループ系のインド自動車部品メーカーHighway Roop Precision Technologiesは2026年9月29日、カルナータカ州拠点のアルミダイカストメーカーChamundi Die Cast Private Limited(1985年創業)の買収を完了したと発表した。買収金額は非公開。Chamundiは高圧・重力ダイカスト、精密機械加工、粉体塗装等を手がけ、南インドの生産拠点とEV部品の顧客基盤を保有しており、Highway Roopの既存の鍛造・ステアリング/トランスミッション/パワートレイン部品事業にアルミダイカスト能力を加えることで軽量部品のラインアップ拡充を図る。Chamundiの経営陣は買収後も株式を保持し経営に関与する。インド自動車部品業界におけるダイカストメーカー買収事例として、AlCircle、Just-Auto、AutocarPro等複数の業界メディアが報じた。",
+      "first_seen": "2026-10-17",
+      "category": "B"
+    },
     {
       "title": "Golden Aluminum・SMS group、連続鋳造技術「Nexcast」の工業規模稼働をALUMINIUM 2026(デュッセルドルフ)で発表",
       "url": "https://www.alcircle.com/news/golden-aluminum-sms-group-showcase-taking-nexcast-to-industrial-scale-at-aluminium-2026-in-dusseldorf-121492",
