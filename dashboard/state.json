@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-10-24T06:00:00Z",
+  "last_checked": "2026-10-25T22:05:24Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -161,6 +161,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "ウィスコンシン州の老舗鋳物工場メイナード・スチール、買収交渉不成立で12月閉鎖・77人解雇へ",
+      "url": "https://urbanmilwaukee.com/?p=1004118",
+      "source": "Urban Milwaukee",
+      "published_date": "2026-10-06",
+      "summary": "1907年創業、ミルウォーキー南部の鋳物工場メイナード・スチール・キャスティング(Maynard Steel Casting Company)は、2026年5月に経営破綻(レシーバーシップ)入りした後、事業譲渡先を探していたが交渉が成立せず、10月4日付でWARN法に基づく解雇通知を州に提出した。これにより12月4日付で全77名の従業員が解雇され、同日に健康保険給付も終了する見通し。管財人のDevon Eggert氏は、資産買収・従業員雇用継続に関心を持つ複数の候補者との協議を継続しているとしており、裁判所の承認を条件にさらなる売却の可能性も残されている。",
+      "first_seen": "2026-10-25",
+      "category": "B"
+    },
     {
       "title": "長江材料(001296)、2026年第3四半期決算を発表 ― 子会社の石英砂鉱山が量産達成し原砂供給増でコスト抑制、鋳造材料事業の優位性を強化",
       "url": "https://wap.stockstar.com/detail/IG2026102100042089",
@@ -765,15 +774,6 @@
       "category": "A"
     },
     {
-      "title": "聖泉集団、新規樹脂生産能力10.1万トンを増設 ― 28%は鋳造用バイオベース樹脂に注力",
-      "url": "https://pdf.dfcfw.com/pdf/H3_AP202604281821656891_1.pdf",
-      "source": "東方財富証券 調査レポート",
-      "published_date": "2026-04-27",
-      "summary": "証券会社の調査レポートによると、聖泉集団は2026年に樹脂生産能力を新たに10.10万トン増設し、うち28%を「双炭」政策や自動車軽量化ニーズに対応する鋳造用バイオベース環境対応樹脂に振り向けるとした。同社の合成樹脂事業の粗利益率は2026年第1四半期に前年同期比2.3ポイント改善し34.8%となり、業界平均(26.1%)を大きく上回った。",
-      "first_seen": "2026-08-16",
-      "category": "A"
-    },
-    {
       "title": "伊藤鋳造鉄工所(茨城)、アルミ部品の岡本合金鋳造所を子会社化 ― 常陽キャピタルパートナーズが仲介",
       "url": "https://www.nikkei.com/article/DGXZQOCC125E10S6A610C2000000/",
       "source": "日本経済新聞",
@@ -847,6 +847,7 @@
     "https://www.voxelmatters.com/exone-global-holdings-sets-board-as-it-integrates-exone-and-voxeljet/",
     "https://3dprintingindustry.com/news/exone-and-voxeljet-launch-unified-global-aftermarket-support-network-across-eight-countries-246414/",
     "https://3dprint.com/325264/exone-moves-3d-printing-production-to-detroit-cuts-costs-for-u-s-customers/",
-    "https://static.cninfo.com.cn/finalpage/2026-04-25/1225187103.PDF"
+    "https://static.cninfo.com.cn/finalpage/2026-04-25/1225187103.PDF",
+    "https://pdf.dfcfw.com/pdf/H3_AP202604281821656891_1.pdf"
   ]
 }
