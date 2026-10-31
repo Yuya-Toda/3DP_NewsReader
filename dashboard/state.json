@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-10-30T09:00:00Z",
+  "last_checked": "2026-10-31T22:08:44Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -158,9 +158,33 @@
       "first_seen": "2026-10-23",
       "article_count": 1,
       "note": "インドの大手金融・株式情報メディア(Dalal Street Investment Journal)。上場企業のM&A・取締役会決議等を速報。Sharvaya MetalsによるSuccess Electronics(アルミ高圧ダイカスト)買収を報道。"
+    },
+    {
+      "domain": "investegate.co.uk",
+      "first_seen": "2026-10-31",
+      "article_count": 1,
+      "note": "英国上場企業のRNS(規制情報開示)を集約する情報サービス。Vesuvius plcのテイクオーバー関連公式開示を確認するために利用。"
     }
   ],
   "articles": [
+    {
+      "title": "米国鋳造協会(AFS)、第38回EHS(環境・安全衛生)会議を開催 ― Grede Browntown・Hiler Industries等16拠点の安全・環境実績を表彰",
+      "source": "American Foundry Society(AFS公式)",
+      "published_date": "2026-10-15",
+      "url": "https://www.afsinc.org/news/2026/10/15/safety-and-environmental-achievements-honored-2026-ehs-conference",
+      "summary": "米国鋳造協会(AFS)は、2026年10月6〜8日にケンタッキー州ルイビルで開催した第38回環境・安全衛生(EHS)会議において、米国内16の鋳造拠点の安全・環境実績を表彰したと発表した。Grede Castings(ブラウンタウン工場)は溶解工程での省エネルギー対策、Hiler Industries(ラポート工場)は副産物の有効活用の取り組みで受賞した。",
+      "category": "B",
+      "first_listed_date": "2026-10-31"
+    },
+    {
+      "title": "Vesuvius(フォセコ親会社)、RHIマグネシタによる買収提案の「正式オファー期限」を11月24日まで延長 ― 独禁法対応で「合理的な進展」",
+      "source": "Vesuvius plc(RNS、Investegate経由)/ AJ Bell",
+      "published_date": "2026-10-27",
+      "url": "https://www.investegate.co.uk/announcement/rns/vesuvius--vsvs/pusu-extension-announcement/9844355",
+      "summary": "鋳造用バインダー・耐火物大手フォセコの親会社Vesuviusは、RHIマグネシタからの買収提案に関し、英テイクオーバー・コードに基づく「正式オファー期限(PUSU Deadline)」を2026年10月27日から11月24日17時(ロンドン時間)まで延長したと発表した。両社は独禁法対応に必要な資産売却の収益閾値について「合理的な進展」があったとしており、最大株主Cevianも支持表明(irrevocable undertaking)の期限を合わせて延長した。",
+      "category": "A",
+      "first_listed_date": "2026-10-31"
+    },
     {
       "title": "RHIマグネシタ、ベスビウス(Vesuvius)買収に絡む独禁法対応で資産売却の「収益閾値」に合意",
       "source": "MLex",
