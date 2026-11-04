@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-11-03T22:08:46Z",
+  "last_checked": "2026-11-04T22:11:37Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -167,6 +167,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "自動車向け鋳物の需要減少に対応、広島の友鉄工業が「大型機械加工」へのシフトを本格化 ― 5年で大型五面加工機3台を追加、グループ計6台体制で受託一貫生産を強化",
+      "source": "友鉄工業株式会社(公式プレスリリース、PR TIMES経由)",
+      "published_date": "2026-10-23",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000191873.html",
+      "summary": "広島市の鋳物メーカー・友鉄工業は、自動車向け鋳物需要の減少を受け、大型機械加工事業へのシフトを本格化すると発表した。直近5年間でグループ内に大型五面加工機を3台(友鉄マシンが2022年導入、友鉄アローが2025年2月導入、友鉄マシンが2026年3月に追加購入)導入し、計6台体制を構築したという。鋳物素材の製造から大型機械加工・工場間輸送までをグループ内で一貫して担う体制を強みとし、大型部品の受託加工事業を強化する方針を示した。",
+      "category": "B",
+      "first_listed_date": "2026-11-04"
+    },
     {
       "title": "米国鋳造協会(AFS)、第38回EHS(環境・安全衛生)会議を開催 ― Grede Browntown・Hiler Industries等16拠点の安全・環境実績を表彰",
       "source": "American Foundry Society(AFS公式)",
@@ -798,15 +807,6 @@
       "category": "A"
     },
     {
-      "title": "中国鋳造協会、「2025年度中国鋳造業界データ」を発表",
-      "url": "https://zhuzaotoutiao.com/xw/html/23022.shtml",
-      "source": "铸造头条",
-      "published_date": "2026-05-07",
-      "summary": "中国鋳造協会は2026年5月、上海で開催された第22回年次総会(Metal China/Diecasting China展と同時開催)において「2025年度中国鋳造業界データ」を正式発表した。生産能力、輸出入動向、産業発展トレンドなど、世界最大の鋳物生産国である中国の業界動向を示す基礎統計として注目されている。",
-      "first_seen": "2026-08-16",
-      "category": "B"
-    },
-    {
       "title": "伊藤鋳造鉄工所(茨城)、アルミ部品の岡本合金鋳造所を子会社化 ― 常陽キャピタルパートナーズが仲介",
       "url": "https://www.nikkei.com/article/DGXZQOCC125E10S6A610C2000000/",
       "source": "日本経済新聞",
@@ -882,6 +882,7 @@
     "https://3dprintingindustry.com/news/exone-and-voxeljet-launch-unified-global-aftermarket-support-network-across-eight-countries-246414/",
     "https://3dprint.com/325264/exone-moves-3d-printing-production-to-detroit-cuts-costs-for-u-s-customers/",
     "https://static.cninfo.com.cn/finalpage/2026-04-25/1225187103.PDF",
-    "https://pdf.dfcfw.com/pdf/H3_AP202604281821656891_1.pdf"
+    "https://pdf.dfcfw.com/pdf/H3_AP202604281821656891_1.pdf",
+    "https://zhuzaotoutiao.com/xw/html/23022.shtml"
   ]
 }
