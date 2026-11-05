@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-11-04T22:11:37Z",
+  "last_checked": "2026-11-05T22:09:02Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -164,9 +164,24 @@
       "first_seen": "2026-10-31",
       "article_count": 1,
       "note": "英国上場企業のRNS(規制情報開示)を集約する情報サービス。Vesuvius plcのテイクオーバー関連公式開示を確認するために利用。"
+    },
+    {
+      "domain": "monoist.itmedia.co.jp",
+      "first_seen": "2026-11-05",
+      "article_count": 1,
+      "note": "ITmedia運営の製造業(モノづくり)専門メディア「MONOist」。DMG森精機によるポーランド・プレシェフでの新鋳物工場「DMG MORI CASTECH Poland」新設(年産2万トン規模)を報道。"
     }
   ],
   "articles": [
+    {
+      "title": "DMG森精機、ポーランド・プレシェフに新鋳物工場「DMG MORI CASTECH Poland」を新設 ― 年産2万トン体制目指し工作機械用鋳物を欧州域内で生産",
+      "source": "MONOist(ITmedia、monoist.itmedia.co.jp)",
+      "published_date": "2026-10-30",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news056.html",
+      "summary": "DMG森精機は2026年10月29日、ポーランド中西部プレシェフ市に新会社「DMG MORI CASTECH Poland」を設立し、工作機械用鋳物を生産する新工場を新設すると発表した。既存のDMG MORI Pleszew工場から約2.5km離れた場所に立地し、2026年中に着工、2030年の生産開始を目指す。将来的には年産2万トン規模の生産能力を備え、原材料の再生・回収工程や島根県出雲市のDMG MORIキャステックが持つ鋳造技術も活用し、欧州域内の鋳物生産・供給体制を強化する狙いがある。",
+      "category": "B",
+      "first_listed_date": "2026-11-05"
+    },
     {
       "title": "自動車向け鋳物の需要減少に対応、広島の友鉄工業が「大型機械加工」へのシフトを本格化 ― 5年で大型五面加工機3台を追加、グループ計6台体制で受託一貫生産を強化",
       "source": "友鉄工業株式会社(公式プレスリリース、PR TIMES経由)",
