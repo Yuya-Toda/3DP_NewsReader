@@ -170,24 +170,9 @@
       "first_seen": "2026-11-05",
       "article_count": 1,
       "note": "ITmedia運営の製造業(モノづくり)専門メディア「MONOist」。DMG森精機によるポーランド・プレシェフでの新鋳物工場「DMG MORI CASTECH Poland」新設(年産2万トン規模)を報道。"
-    },
-    {
-      "domain": "biztimes.com",
-      "first_seen": "2026-11-07",
-      "article_count": 1,
-      "note": "米ウィスコンシン州ミルウォーキーの地域経済ニュースサイト(BizTimes Media)。老舗鋳物メーカーMaynard Steel Castingの工場閉鎖・解雇を報道。"
     }
   ],
   "articles": [
-    {
-      "title": "米ミルウォーキーの老舗鋳物工場Maynard Steel Casting、全77人を解雇し12月4日閉鎖へ ― 資産売却が不成立",
-      "source": "BizTimes Milwaukee(biztimes.com)",
-      "published_date": "2026-10-04",
-      "url": "https://biztimes.com/maynard-steel-to-lay-off-77-in-plant-closure/",
-      "summary": "米ウィスコンシン州ミルウォーキーの鋳物メーカーMaynard Steel Casting Company(1907年創業)は、同社ミルウォーキー工場を2026年12月4日付で閉鎖し、全77人の従業員を解雇するとのWARN法通知を提出した。同社は2026年5月に管財人管理(receivership)入りし事業譲渡先を模索していたが、裁判所監督下の手続きでは譲渡先を見つけられなかったとしている。米国鋳造業界で続く工場閉鎖・雇用縮小の一例として報じられた。",
-      "category": "B",
-      "first_listed_date": "2026-11-07"
-    },
     {
       "title": "DMG森精機、ポーランド・プレシェフに新鋳物工場「DMG MORI CASTECH Poland」を新設 ― 年産2万トン体制目指し工作機械用鋳物を欧州域内で生産",
       "source": "MONOist(ITmedia、monoist.itmedia.co.jp)",
