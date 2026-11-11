@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-11-10T22:08:39Z",
+  "last_checked": "2026-11-11T12:00:00Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -822,15 +822,6 @@
       "category": "A"
     },
     {
-      "title": "群栄化学工業、2026年3月期決算を発表 ― 売上高313億円・営業利益25.7億円",
-      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260514/20260513529526.pdf",
-      "source": "群栄化学工業株式会社(決算短信、東証適時開示)",
-      "published_date": "2026-05-14",
-      "summary": "群栄化学工業は2026年3月期(2025年4月〜2026年3月)の連結決算を発表し、売上高は前期比2.5%増の313億7百万円、営業利益は同12.0%増の25億6700万円となった。鋳物用バインダーなどを含むフェノール樹脂コアの化学品事業が業績を牽引した。",
-      "first_seen": "2026-08-16",
-      "category": "A"
-    },
-    {
       "title": "伊藤鋳造鉄工所(茨城)、アルミ部品の岡本合金鋳造所を子会社化 ― 常陽キャピタルパートナーズが仲介",
       "url": "https://www.nikkei.com/article/DGXZQOCC125E10S6A610C2000000/",
       "source": "日本経済新聞",
@@ -895,6 +886,7 @@
     }
   ],
   "archived_urls": [
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260514/20260513529526.pdf",
     "https://stock.stockstar.com/RB2026042900040795.shtml",
     "https://www.thomasnet.com/insights/gm-michigan-metal-casting-plant-upgrade/",
     "https://www.cnblogs.com/-1688/p/20668365",
