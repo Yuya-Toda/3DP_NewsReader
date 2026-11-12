@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-11-11T12:00:00Z",
+  "last_checked": "2026-11-12T22:08:11Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -170,9 +170,39 @@
       "first_seen": "2026-11-05",
       "article_count": 1,
       "note": "ITmedia運営の製造業(モノづくり)専門メディア「MONOist」。DMG森精機によるポーランド・プレシェフでの新鋳物工場「DMG MORI CASTECH Poland」新設(年産2万トン規模)を報道。"
+    },
+    {
+      "domain": "ncsti.gov.cn",
+      "first_seen": "2026-11-12",
+      "article_count": 1,
+      "note": "国家中小企业发展促进中心(工業和信息化部所管)の公式サイト。地方メディア(北京顺义官微)の転載記事を掲載。追跡対象企業「北京三帝科技」の専精特新「小巨人」認定・特変電工との戦略的提携等を報道。"
+    },
+    {
+      "domain": "news.mit.edu",
+      "first_seen": "2026-11-12",
+      "article_count": 1,
+      "note": "マサチューセッツ工科大学(MIT)公式ニュースサイト。MIT発スタートアップFabriによる3Dプリントパターンを用いたインベストメント鋳造技術(米国内鋳造業再興を目指す取り組み)を報道。"
     }
   ],
   "articles": [
+    {
+      "title": "北京三帝科技(SANDY Technology)、特変電工(TBEA)と戦略的提携 ― 「3D打印+铸造」で高圧電気機器の複雑部品開発へ",
+      "source": "北京顺义官微(国家中小企业发展促进中心サイト経由、ncsti.gov.cn)",
+      "published_date": "2026-11-09",
+      "url": "https://www.ncsti.gov.cn/kjdt/yqdy/yqdt/202611/t20261109_262173.html",
+      "summary": "北京市順義区の国家級専精特新「小巨人」企業で工信部増材制造典型応用場景供応商にも選定されている三帝科技(SANDY Technology、追跡対象企業「北京三帝」)は、地元メディアの取材に対し、董事長の宗貴升氏が、中国の送変電設備大手・特変電工(TBEA)と今年戦略的提携を結び、「3D打印+铸造」技術を高圧電器の複雑部品開発に応用していく方針を明らかにしたと報じられた。同社はAIチップ向け放熱新材料分野への展開も進めているとされ、順義区の産業集積(高丽営鎮)への上下游プロジェクト誘致にも言及した。",
+      "category": "A",
+      "first_listed_date": "2026-11-12"
+    },
+    {
+      "title": "MIT発スタートアップFabri、3Dプリントパターンでインベストメント鋳造を高速化 ― ロッキード・マーティン等と提携、米国内鋳造業の復活目指す",
+      "source": "MIT News(news.mit.edu)",
+      "published_date": "2026-11-10",
+      "url": "https://news.mit.edu/2026/streamlining-metal-parts-production-revitalize-american-industry-fabri-1110",
+      "summary": "MIT卒業生3名が設立したスタートアップFabriは、米マサチューセッツ州ビルリカの工場で、従来の鋼製ツーリングに代わり3Dプリントしたパターンを使うインベストメント鋳造技術を展開しており、設計データ受領から最短1週間で完成部品を製造できるとしている。レイセオン・ロッキード・マーティン・シコルスキー・エアクラフト等と提携してアルミ・銅合金・ステンレス鋳物(主に兵器・航空・艦艇向け)の生産を進めており、2027年初頭にはタービンブレード向けニッケル超合金鋳造への対応も計画している。米国内鋳造業の再興を目指す新興企業の動きとして、MIT NewsのほかYahoo Tech等複数メディアが報じた。",
+      "category": "B",
+      "first_listed_date": "2026-11-12"
+    },
     {
       "title": "Loramendi & Aurrenak、ExOneと提携 ― 「アダプティブ・コアメイキング」で鋳造中子製造の高度化を推進",
       "source": "Foundry-Planet.com",
