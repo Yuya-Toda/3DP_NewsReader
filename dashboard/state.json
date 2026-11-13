@@ -1,6 +1,6 @@
 {
   "dashboard_url": "https://claude.ai/code/artifact/596d73e0-4bda-4283-979b-1a3f8f0783b6",
-  "last_checked": "2026-11-12T22:08:11Z",
+  "last_checked": "2026-11-13T22:08:00Z",
   "discovered_sources": [
     {
       "domain": "3dptek.com",
@@ -47,7 +47,7 @@
     {
       "domain": "thebusinessdesk.com",
       "first_seen": "2026-08-24",
-      "article_count": 1,
+      "article_count": 2,
       "note": "英国地方経済ニュースサイト(West Midlands版)。コベントリーの鋳物工場Sarginsons Industriesによるvoxeljet製無機バインダー砂型3Dプリンタ導入を報道。"
     },
     {
@@ -185,6 +185,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "経済産業省、化学品・鋳造品など老朽化した民間生産設備の国有化制度を検討 ― 経済安全保障の行動計画に明記へ",
+      "source": "日本経済新聞",
+      "published_date": "2026-11-12",
+      "url": "https://www.nikkei.com/article/DGXZQOUA11BU90R11C26A1000000/",
+      "summary": "日本経済新聞によると、経済産業省は経済安全保障上重要な化学品や鋳造品などの分野で、老朽化が進む民間の生産設備を国が一時的に取得・国有化できる制度の検討に入った。2026年11月12日に有識者会議が議論を開始し、2027年春にも改定予定の政府の経済安保の行動計画に明記した上で法制度化を目指す方針とされる。鋳造品を含む基盤産業の生産能力維持が国の安全保障政策上の課題として位置づけられたことを示す動きとして注目される。",
+      "category": "B",
+      "first_listed_date": "2026-11-13"
+    },
+    {
+      "title": "英鋳物大手Castings plc、半期決算で税引前利益6割減 ― ウィリアム・リー鋳造所の電源不具合が響き、通期見通しも下方修正済み",
+      "source": "TheBusinessDesk(West Midlands版)",
+      "published_date": "2026-11-11",
+      "url": "https://www.thebusinessdesk.com/westmidlands/news/2119239-power-fault-wipes-60-off-profits-at-brownhills-foundry-group-castings",
+      "summary": "英国ブラウンヒルズ拠点の鋳物大手グループCastings plcは、2026年9月30日までの半期決算を発表し、税引前利益が前年同期の500万ポンドから約200万ポンドへと大幅に減少したと報じられた。主因は傘下のウィリアム・リー鋳造所(ダービーシャー州ドロンフィールド)で発生した電源供給の不具合による操業効率の低下で、同社は10月26日付で既に通期の業績見通しを下方修正していた。トラック向け鋳物需要の低迷に加えて設備トラブルが重なり、英国鋳造業界の厳しい経営環境を示す事例として報じられた。",
+      "category": "B",
+      "first_listed_date": "2026-11-13"
+    },
     {
       "title": "北京三帝科技(SANDY Technology)、特変電工(TBEA)と戦略的提携 ― 「3D打印+铸造」で高圧電気機器の複雑部品開発へ",
       "source": "北京顺义官微(国家中小企业发展促进中心サイト経由、ncsti.gov.cn)",
